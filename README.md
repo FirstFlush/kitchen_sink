@@ -1,4 +1,4 @@
-# Kitchen Sink - Wordlist Aggregation and Hash Cracking
+# Kitchen Sink - Wordlist Iterator for John the Ripper
 
 Kitchen Sink is a Bash script that automates the process of grabbing every wordlist in a directory, feeding them to "John the Ripper" for hash cracking, and recursively gathering wordlists from subdirectories. It is designed primarily for use with the "seclists" wordlists, but it can work with other wordlist directories too.
 
